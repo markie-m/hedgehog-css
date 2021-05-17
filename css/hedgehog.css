@@ -15,7 +15,7 @@ h2 {
   text-align: center;
 }
 h1 {
-  text-shadow: 1px 1px #ff0c7e;
+  text-shadow: 1px 0px #ff0c7e, -1px 0px #7759fd;
   text-transform: uppercase;
 }
 
