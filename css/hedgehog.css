@@ -366,8 +366,8 @@ h1 {
     }
   
     .sparkle {
-      top: 25%;
-      left:-23%;
+      top: 18%;
+      left: -23%;
       background: var(--hedgehog-belly);
       width: 150%;
       height: 100%;
