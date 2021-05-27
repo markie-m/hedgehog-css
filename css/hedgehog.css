@@ -118,6 +118,8 @@ h1 {
     top: 2px;
     left: 40px;
     background: var(--hedgehog-skin, brown);
+    border: 1px solid var(--hedgehog-snout, sienna);
+  z-index: -1;
     width: 10px;
     height: 9px;
     -webkit-transform: rotate(35deg) skew(22deg, 16deg);
@@ -140,6 +142,8 @@ h1 {
     top: -4px;
     left: 52px;
     background: var(--hedgehog-skin, brown);
+    border: 1px solid var(--hedgehog-snout, sienna);
+  z-index: -1;
     width: 10px;
     height: 9px;
     -webkit-transform: rotate(50deg) skew(24deg, 16deg);
@@ -158,10 +162,12 @@ h1 {
     transform: rotate(51deg) skew(24deg, 10deg);
 }
 
-  .spine8 {
+.spine8 {
     top: -5px;
     left: 65px;
     background: var(--hedgehog-skin, brown);
+    border: 1px solid var(--hedgehog-snout, sienna);
+  z-index: -1;
     width: 9px;
     height: 7px;
     -webkit-transform: rotate(51deg) skew(24deg, 10deg);
@@ -194,6 +200,8 @@ h1 {
   top: -4px;
   left: 83px;
   background: var(--hedgehog-skin, brown);
+  border: 1px solid var(--hedgehog-snout, sienna);
+  z-index: -1;
   width: 10px;
   height: 9px;
   -webkit-transform: rotate(50deg) skew(24deg, 16deg);
@@ -212,8 +220,10 @@ h1 {
 }
 .spine13 {
   top: -2px;
-  left: 96px;
+  left: 95px;
   background: var(--hedgehog-skin, brown);
+  border: 1px solid var(--hedgehog-snout, sienna);
+  z-index: -1;
   width: 9px;
   height: 9px;
   -webkit-transform: rotate(37deg) skew(22deg, 16deg);
