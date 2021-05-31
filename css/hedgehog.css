@@ -91,7 +91,6 @@ h1 {
   -ms-transform: rotate(-27deg) skew(-7deg, 51deg);
   transform: rotate(-27deg) skew(-7deg, 51deg);
 }
-  
 .spine2 {
   top: 33px;
   left: 3px;
@@ -102,7 +101,6 @@ h1 {
   -ms-transform: rotate(21deg) skew(23deg, 16deg);
   transform: rotate(21deg) skew(23deg, 16deg);
 }
-
 .spine3 {
   top: 27px;
   left: 5px;
@@ -113,7 +111,6 @@ h1 {
   -ms-transform: rotate(27deg) skew(22deg, 16deg);
   transform: rotate(27deg) skew(22deg, 16deg);
 }
-
 .spine4 {
   top: 2px;
   left: 40px;
@@ -126,64 +123,60 @@ h1 {
   -ms-transform: rotate(35deg) skew(22deg, 16deg);
   transform: rotate(35deg) skew(22deg, 16deg);
 }
-
-  .spine5 {
-    top: -2px;
-    left: 46px;
-    background: var(--hedgehog-skin, brown);
-    width: 9px;
-    height: 9px;
-    -webkit-transform: rotate(37deg) skew(22deg, 16deg);
-    -ms-transform: rotate(37deg) skew(22deg, 16deg);
-    transform: rotate(37deg) skew(22deg, 16deg);
+.spine5 {
+  top: -2px;
+  left: 46px;
+  background: var(--hedgehog-skin, brown);
+  width: 9px;
+  height: 9px;
+  -webkit-transform: rotate(37deg) skew(22deg, 16deg);
+  -ms-transform: rotate(37deg) skew(22deg, 16deg);
+  transform: rotate(37deg) skew(22deg, 16deg);
 }
-
-  .spine6 {
-    top: -4px;
-    left: 52px;
-    background: var(--hedgehog-skin, brown);
-    border: 1px solid var(--hedgehog-snout, sienna);
+.spine6 {
+  top: -4px;
+  left: 52px;
+  background: var(--hedgehog-skin, brown);
+  border: 1px solid var(--hedgehog-snout, sienna);
   z-index: -1;
-    width: 10px;
-    height: 9px;
-    -webkit-transform: rotate(50deg) skew(24deg, 16deg);
-    -ms-transform: rotate(50deg) skew(24deg, 16deg);
-    transform: rotate(50deg) skew(24deg, 16deg);
+  width: 10px;
+  height: 9px;
+  -webkit-transform: rotate(50deg) skew(24deg, 16deg);
+  -ms-transform: rotate(50deg) skew(24deg, 16deg);
+  transform: rotate(50deg) skew(24deg, 16deg);
 }
-
-  .spine7 {
-    top: -5px;
-    left: 58px;
-    background: var(--hedgehog-skin, brown);
-    width: 10px;
-    height: 8px;
-    -webkit-transform: rotate(51deg) skew(24deg, 10deg);
-    -ms-transform: rotate(51deg) skew(24deg, 10deg);
-    transform: rotate(51deg) skew(24deg, 10deg);
+.spine7 {
+  top: -5px;
+  left: 58px;
+  background: var(--hedgehog-skin, brown);
+  width: 10px;
+  height: 8px;
+  -webkit-transform: rotate(51deg) skew(24deg, 10deg);
+  -ms-transform: rotate(51deg) skew(24deg, 10deg);
+  transform: rotate(51deg) skew(24deg, 10deg);
 }
 .spine8 {
-    top: -5px;
-    left: 65px;
-    background: var(--hedgehog-skin, brown);
-    border: 1px solid var(--hedgehog-snout, sienna);
+  top: -5px;
+  left: 65px;
+  background: var(--hedgehog-skin, brown);
+  border: 1px solid var(--hedgehog-snout, sienna);
   z-index: -1;
-    width: 9px;
-    height: 7px;
-    -webkit-transform: rotate(51deg) skew(24deg, 10deg);
-    -ms-transform: rotate(51deg) skew(24deg, 10deg);
-    transform: rotate(51deg) skew(24deg, 10deg);
+  width: 9px;
+  height: 7px;
+  -webkit-transform: rotate(51deg) skew(24deg, 10deg);
+  -ms-transform: rotate(51deg) skew(24deg, 10deg);
+  transform: rotate(51deg) skew(24deg, 10deg);
 }
-  .spine9 {
-    top: -5px;
-    left: 71px;
-    background: var(--hedgehog-skin, brown);
-    width: 9px;
-    height: 7px;
-    -webkit-transform: rotate(79deg) skew(35deg, 10deg);
-    -ms-transform: rotate(79deg) skew(35deg, 10deg);
-    transform: rotate(79deg) skew(35deg, 10deg);
+.spine9 {
+  top: -5px;
+  left: 71px;
+  background: var(--hedgehog-skin, brown);
+  width: 9px;
+  height: 7px;
+  -webkit-transform: rotate(79deg) skew(35deg, 10deg);
+  -ms-transform: rotate(79deg) skew(35deg, 10deg);
+  transform: rotate(79deg) skew(35deg, 10deg);
 }
-
 .spine10 {
   top: -4px;
   left: 77px;
@@ -424,24 +417,24 @@ h1 {
 }
   
 .left-inner-ear-shadow {
-      top: 1%;
-      left: 9%;
-      background: #ce9e74;
-      width: 20%;
-      height: 25%;
-      border-radius: 50% 50% 50% 50%;
-      transform: rotate(80deg);
-      /* z-index: -2222; */
+  top: 1%;
+  left: 9%;
+  background: #ce9e74;
+  width: 20%;
+  height: 25%;
+  border-radius: 50% 50% 50% 50%;
+  transform: rotate(80deg);
+  /* z-index: -2222; */
 }
 
 .right-inner-ear {
-      top: 6%;
-      left: 74%;
-      background: var(--hedgehog-snout, orange);
-      width: 15%;
-      height: 20%;
-      border-radius: 50% 50% 50% 50%;
-      transform: rotate(-80deg);
+  top: 6%;
+  left: 74%;
+  background: var(--hedgehog-snout, orange);
+  width: 15%;
+  height: 20%;
+  border-radius: 50% 50% 50% 50%;
+  transform: rotate(-80deg);
 }
   
 .left-inner-ear {
