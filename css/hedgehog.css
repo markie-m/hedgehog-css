@@ -413,17 +413,17 @@ h1 {
 }
 
 .right-inner-ear-shadow {
-      top: 1%;
-      left: 70%;
-      background: #ce9e74;
-      width: 20%;
-      height: 25%;
-      border-radius: 50% 50% 50% 50%;
-      transform: rotate(-80deg);
-      /* z-index: -2222; */
+  top: 1%;
+  left: 70%;
+  background: #ce9e74;
+  width: 20%;
+  height: 25%;
+  border-radius: 50% 50% 50% 50%;
+  transform: rotate(-80deg);
+  /* z-index: -2222; */
 }
   
-    .left-inner-ear-shadow {
+.left-inner-ear-shadow {
       top: 1%;
       left: 9%;
       background: #ce9e74;
@@ -432,9 +432,9 @@ h1 {
       border-radius: 50% 50% 50% 50%;
       transform: rotate(80deg);
       /* z-index: -2222; */
-    }
+}
 
-    .right-inner-ear {
+.right-inner-ear {
       top: 6%;
       left: 74%;
       background: var(--hedgehog-snout, orange);
@@ -442,72 +442,71 @@ h1 {
       height: 20%;
       border-radius: 50% 50% 50% 50%;
       transform: rotate(-80deg);
-    }
+}
   
-    .left-inner-ear {
-      top: 6%;
-      left: 11%;
-      background: var(--hedgehog-snout, orange);
-      width: 15%;
-      height: 20%;
-      border-radius: 50% 50% 50% 50%;
-      transform: rotate(80deg);
-    }
-
+.left-inner-ear {
+  top: 6%;
+  left: 11%;
+  background: var(--hedgehog-snout, orange);
+  width: 15%;
+  height: 20%;
+  border-radius: 50% 50% 50% 50%;
+  transform: rotate(80deg);
+}
 /* END EARS STYLES */
 
-    .blush-right {
-      top: 58%;
-      left: 15%;
-      background: #ffadbc;
-      width: 15%;
-      height: 10%;
-      border-radius: 50%;
-    }
+.blush-right {
+  top: 58%;
+  left: 15%;
+  background: #ffadbc;
+  width: 15%;
+  height: 10%;
+  border-radius: 50%;
+}
   
-    .blush-left {
-      top: 58%;
-      left: 70%;
-      background: #ffadbc;
-      width: 15%;
-      height: 10%;
-      border-radius: 50%;
-    }
+.blush-left {
+  top: 58%;
+  left: 70%;
+  background: #ffadbc;
+  width: 15%;
+  height: 10%;
+  border-radius: 50%;
+}
   
-    .snout-top {
-      top: 60%;
-      left: 39%;
-      background: var(--hedgehog-snout, orange);
-      width: 22%;
-      height: 15%;
-      border-radius: 50%;
-    }
-    .snout-bottom {
-      top: 60%;
-      left: 37.5%;
-      background: #ce9e74;
-      width: 25%;
-      height: 20%;
-      border-radius: 50%;
-    }
+.snout-top {
+  top: 60%;
+  left: 39%;
+  background: var(--hedgehog-snout, orange);
+  width: 22%;
+  height: 15%;
+  border-radius: 50%;
+}
+.snout-bottom {
+  top: 60%;
+  left: 37.5%;
+  background: #ce9e74;
+  width: 25%;
+  height: 20%;
+  border-radius: 50%;
+}
   
-    .nose {
-      top: 65%;
-      left: 44%;
-      background: var(--hedgehog-nose, orange);
-      width: 11%;
-      height: 8%;
-      border-radius: 50%;
-    }
+.nose {
+  top: 65%;
+  left: 44%;
+  background: var(--hedgehog-nose, orange);
+  width: 11%;
+  height: 8%;
+  border-radius: 50%;
+}
   
-    body {
-      /* background:#c6faf1; */
-      background-color: #c6ffe4;
-    }
+body {
+  /* background:#c6faf1; */
+  background-color: #c6ffe4;
+}
   
-    .hedgehog * {
-      position: absolute;
-    }
+.hedgehog * {
+  position: absolute;
+}
 
 /* END HEDGEHOG STYLES */
 
